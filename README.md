@@ -7,8 +7,21 @@ A classic bingo game
 To build a bingo game Persson vs Computer with the following features:
 
 * A player can select 3 tickets out of 15
+
+![Optional Text](./readme/Bingo1.png)
+
 * Once the selection is done, the remaining 12 tickets will belong to the computer
+
+![Optional Text](./readme/Bingo2.png)
+
+* Automatic extractions will happen every second (increasablle/decreasable for slower/faster game)
+
+![Optional Text](./readme/Bingo3.png)
+
 * Numbers will be extracted until one of the tickets in game will match all of its numbers
+
+![Optional Text](./readme/Bingo4.png)
+
 
 ## Skills and technical aspects to focus on
 
