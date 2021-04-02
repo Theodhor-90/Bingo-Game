@@ -4,7 +4,7 @@ A classic bingo game
 
 ## Objective
 
-To build a bingo game Persson vs Computer with the following features:
+To build a bingo game Person vs Computer with the following features:
 
 * A player can select 3 tickets out of 15
 
